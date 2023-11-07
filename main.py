@@ -13,7 +13,7 @@ def main():
     # Do not delete the return statement
     ########################################
     """
-    return celcius, fahrenheit
+    return celsius, fahrenheit
 
 
 if __name__ == '__main__':
